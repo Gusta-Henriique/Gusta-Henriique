@@ -24,7 +24,7 @@
    <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<div>
+<div align="center">
   <h1>Estou Apredendo</h1>
     
   <img align="center" alt="Gusta-Mysql" height="100" width="100" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"/>
@@ -34,6 +34,8 @@
   <img align="center" alt="Gusta-Angula" height="65" width="65" src="https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor"/>  
 
   <img align="center" alt="Gusta-JavaScript" height="65" width="65" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor"/>
+
+  <img align="center" alt="Gusta-Sass" height="65" width="65" src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
