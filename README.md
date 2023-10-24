@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+,+Meu+Nome+é+Gustavo+Henrique;Tenho+23+anos;Sou+Graduado+em+Desenvolvimento+De+Sistema;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+-+Vindo!;+Meu+Nome+é+Gustavo+Henrique;Tenho+23+anos;Sou+Graduado+em+Desenvolvimento+De+Sistema;+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gusta-Henriique&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=800000&text_color=FFFFFF&bg_color=0d1117" alt="github stats" /> 
@@ -18,15 +18,22 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 <div>
   <h1>Estou Apredendo</h1>
-          
-           
-          
+    
+  <img align="center" alt="Gusta-Mysql" height="100" width="100" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"/>
+  
+  <img align="center" alt="Gusta-React" height="65" width="65" src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"/>
+
+  <img align="center" alt="Gusta-Angula" height="65" width="65" src="https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor"/>  
+
+  <img align="center" alt="Gusta-JavaScript" height="65" width="65" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
