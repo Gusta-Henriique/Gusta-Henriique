@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h1>Estou Apredendo</h1>
+  <h1>Estou Aprendendo</h1>
     
   <img align="center" alt="Gusta-Mysql" height="100" width="100" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"/>
   
