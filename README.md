@@ -18,24 +18,16 @@
 </div>
 
 <div align="center">
-   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react" />
+  </a>
 </div>
 
 <div align="center">
   <h1>Estou Aprendendo</h1>
-    
-  <img align="center" alt="Gusta-Mysql" height="100" width="100" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"/>
-  
-  <img align="center" alt="Gusta-React" height="65" width="65" src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"/>
-
-  <img align="center" alt="Gusta-Angula" height="65" width="65" src="https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor"/>  
-
-  <img align="center" alt="Gusta-JavaScript" height="65" width="65" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor"/>
-
-  <img align="center" alt="Gusta-Sass" height="65" width="65" src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor"/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vite,mysql,angular,tailwind,sass" />
+    </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
