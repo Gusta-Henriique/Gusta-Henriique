@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/gustavo-henri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavo-henri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="https://wa.me/5561996234681?text=Ol%C3%A1,%20como%20posso%20ajudar%20voc%C3%AA%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+  <a href="https://wa.me/5561996234681?text=Ol%C3%A1,%20vi%20seu%20projeto%20no%20GitHub%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
    target="_blank"></a>
 </div>
 
