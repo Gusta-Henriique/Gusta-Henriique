@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <a href="site curriculo" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
-   target="_blank" rel="noopener noreferrer" ></a>
+   target="_blank"></a>
   <a href="https://instagram.com/gustta_henrii?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
    target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavo-henri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
