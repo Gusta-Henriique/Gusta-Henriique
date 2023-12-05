@@ -17,18 +17,15 @@
    target="_blank"></a>
 </div>
 
-
 <div align="center">
-   <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react" />
   </a>
 </div>
 
 <div align="center">
   <h1>Estou Aprendendo</h1>
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=vite,mysql,angular,tailwind,sass" />
     </a>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
