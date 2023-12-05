@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-  <a href="site curriculo" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
+  <a href="https://web-site-navy-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
    target="_blank"></a>
   <a href="https://instagram.com/gustta_henrii?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
    target="_blank"></a> 
